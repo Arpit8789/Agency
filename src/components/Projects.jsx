@@ -28,8 +28,8 @@ const projects = [
     description: 'Multi-role Education Management Platform with Admin, Teacher & Student Portals',
     industry: 'Education',
     techStack: ['React', 'Node.js', 'MongoDB', 'Tailwind'],
-    link: '#',
-    image: null,
+    link: 'https://school-erp-liart-three.vercel.app/',
+    image: '/projects/school_erp.png',
     tilt: 1.5,
     detail: {
       problem: 'Schools use fragmented systems — one software for accounting, another for attendance, Excel for grading, and WhatsApp for communication. This causes administrative bottlenecks, communication gaps, and data security risks.',
